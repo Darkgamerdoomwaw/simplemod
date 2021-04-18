@@ -1,2 +1,1 @@
-# simplemod
 Is simple
